@@ -1,16 +1,26 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Muba-rakk/Muba-rakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Winata Fadillah Mubarak, an Informatics student at Sultan Ageng Tirtayasa University. Passionate about technology, software development, and solving real-world problems through code.  
 
-Here are some ideas to get you started:
+🚀 **What I Do:**  
+- 🌐 Web & App Development  
+- 🖥️ Competitive Programming & Problem-Solving  
+- 🔍 Exploring Object-Oriented Programming & Software Engineering  
+- 📊 Data Science & AI (still learning!)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Current Projects:**  
+- **Saputra (Sarana Pusat Ikan Nusantara):** A digital marketplace for fresh seafood, helping local fishermen expand their market.  
+- **Plant Simulator:** A simple plant growth simulation using C++ for learning purposes.  
+
+🎯 **Tech Stack:**  
+- 💻 **Languages:** C++, Python, Dart, C#  
+- 📱 **Frameworks:** Flutter, React, Node.js  
+- 🗄️ **Database:** MySQL, Firebase  
+- ☁️ **Tools:** Git, Docker, Linux  
+
+📬 **Let's Connect!**  
+- GitHub: www.github.com/Muba-rakk
+- LinkedIn: www.linkedin.com/in/fadillhwinata
+- Email: fdillahwinataa@gmail.com
+
+Happy coding! 🚀  
