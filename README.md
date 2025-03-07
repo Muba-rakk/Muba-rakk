@@ -1,26 +1,24 @@
-# About Me
+<h1 align="center">Hi 👋, I'm Winata Fadillah Mubarak</h1>
+<h3 align="center">an Informatics student at Sultan Ageng Tirtayasa University. Passionate about technology, software development, and solving real-world problems through code.</h3>
 
-👋 Hi there! I'm Winata Fadillah Mubarak, an Informatics student at Sultan Ageng Tirtayasa University. Passionate about technology, software development, and solving real-world problems through code.  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muba-rakk&label=Profile%20views&color=0e75b6&style=flat-square" alt="muba-rakk" /> </p>
 
-🚀 **What I Do:**  
-- 🌐 Web & App Development  
-- 🖥️ Competitive Programming & Problem-Solving  
-- 🔍 Exploring Object-Oriented Programming & Software Engineering  
-- 📊 Data Science & AI (still learning!)  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muba-rakk" alt="muba-rakk" /></a> </p>
 
-💡 **Current Projects:**  
-- **Saputra (Sarana Pusat Ikan Nusantara):** A digital marketplace for fresh seafood, helping local fishermen expand their market.  
-- **Plant Simulator:** A simple plant growth simulation using C++ for learning purposes.  
+- 🌱 I’m currently learning **Git, Python, C++**
 
-🎯 **Tech Stack:**  
-- 💻 **Languages:** C++, Python, Dart, C#  
-- 📱 **Frameworks:** Flutter, React, Node.js  
-- 🗄️ **Database:** MySQL, Firebase  
-- ☁️ **Tools:** Git, Docker, Linux  
+- ⚡ Fun fact **I think im handsome**
 
-📬 **Let's Connect!**  
-- GitHub: www.github.com/Muba-rakk
-- LinkedIn: www.linkedin.com/in/fadillhwinata
-- Email: fdillahwinataa@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/fadillhwinata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadillhwinata" height="30" width="40" /></a>
+<a href="https://instagram.com/fadillhwinata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fadillhwinata" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/winata mubarak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="winata mubarak" height="30" width="40" /></a>
+</p>
 
-Happy coding! 🚀  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muba-rakk&show_icons=true&theme=dracula&locale=en" alt="muba-rakk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muba-rakk&theme=dark" alt="muba-rakk" /></p>
