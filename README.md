@@ -21,5 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muba-rakk&show_icons=true&theme=dracula&locale=en" alt="muba-rakk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muba-rakk&theme=dark" alt="muba-rakk" /></p>
-
-<iframe width="110" height="200" src="https://www.myinstants.com/instant/rizz-sounds-27466/embed/" frameborder="0" scrolling="no"></iframe>
