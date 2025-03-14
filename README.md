@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Winata Fadillah Mubarak
 I'm an Informatics student at Universitas Sultan Ageng Tirtayasa who is passionate about coding, learning new technologies, and continuously improving my skills. I love solving problems through code and exploring different programming paradigms, especially Object-Oriented Programming (OOP).<br><br>🌱 Currently Learning<br>- Advanced Object-Oriented Programming (OOP)<br>- Software Architecture & Design Patterns<br>- Cloud Computing & DevOps<br><br>🎯 Goals<br>My ultimate goal is to live a happy and meaningful life, both in this world and the hereafter. To achieve this, I strive to improve myself in all aspects—spiritually, intellectually, and physically.
 
 
